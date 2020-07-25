@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<package>
+  <name>startle_gazebo</name>
+  <version>1.0.0</version>
+  <description>The startle_gazebo package</description>
+
+  <!-- One maintainer tag required, multiple allowed, one person per tag --> 
+  <!-- Example:  -->
+  <!-- <maintainer email="rohanmore90@gmail.com">Jane Doe</maintainer> -->
+  <maintainer email="rohanmore90@gmail.com">Rohan More</maintainer>
+
+
+  <!-- One license tag required, multiple allowed, one license per tag -->
+  <!-- Commonly used license strings: -->
+  <!--   BSD, MIT, Boost Software License, GPLv2, GPLv3, LGPLv2.1, LGPLv3 -->
+  <license>TODO</license>
+
+
+  <!-- Url tags are optional, but mutiple are allowed, one per tag -->
+
+
+
+
+  <!-- Use test_depend for packages you need only for testing: -->
+  <!--   <test_depend>gtest</test_depend> -->
+  <buildtool_depend>catkin</buildtool_depend>
+
+
+  <!-- The export tag contains other, unspecified, tags -->
+  <export>
+    <!-- Other tools can request additional information be placed here -->
+
+  </export>
+</package>
